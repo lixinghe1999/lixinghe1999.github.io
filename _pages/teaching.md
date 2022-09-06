@@ -7,6 +7,9 @@ nav: true
 nav_order: 5
 ---
 
-2021-2022 first term: Reinforcement Learing, CUHK
+Teaching
 
+2021-2022 first term: Reinforcement Learing, CUHK
 2021-2022 second term: Linear algebra, CUHK
+
+Service

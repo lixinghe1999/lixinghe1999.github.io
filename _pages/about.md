@@ -8,8 +8,9 @@ profile:
   image: me.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>727 Ho SinHang Engineering</p>
+    <p>727 HoSinHang Eng Bldg</p>
     <p>The Chinese University of Hong Kong</p>
+    <p>Hong Kong SAR</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
