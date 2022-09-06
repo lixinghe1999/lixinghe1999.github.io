@@ -1,12 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - lixinghe1999
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - lixinghe1999/audioproject
+  - lixinghe1999/drowning_detection
