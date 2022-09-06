@@ -2,7 +2,7 @@
 layout: page
 title: Drowning Detection
 description: signal processing, machine learning
-img: assets/img/3.jpg
+img: 
 importance: 2
 category: work
 ---
