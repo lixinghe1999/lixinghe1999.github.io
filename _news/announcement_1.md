@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2020-07-24 15:59:00-0400
+date: 2023-03-18 15:59:00-0400
 inline: true
 ---
 
-My paper Scsv2 is accepted in Ubicomp-CPD 2020.
+My paper VibVoice is conditionally-accepted in MobiSys'22.

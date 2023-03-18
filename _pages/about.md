@@ -21,4 +21,4 @@ I am Lixing He, a PhD student of the Information Engineering Department of [The 
 as a member of [AIoT Lab](http://aiot.ie.cuhk.edu.hk/). Before that, I obtained Bachelor degree of Engineering at [UESTC](https://en.uestc.edu.cn/) in 2021 and visited 
 [UC Berkeley](https://www.berkeley.edu/) in 2020. I was a research assistant at CUHK in 2021.
 
-My research interests span on acoustic sensing, wearable and VR/AR.
+My research interests span on efficient multi-modal system, wearable and VR/AR.
