@@ -15,4 +15,6 @@ nav_order: 5
 
 2022-2023 second term: system programming
 
+2023-2024 second term: advanced calculus
+
 # Service

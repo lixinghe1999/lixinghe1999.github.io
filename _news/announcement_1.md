@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-03-18 15:59:00-0400
+date: 2023-11-18 15:59:00-0400
 inline: true
 ---
 
-One paper is conditionally-accepted in MobiSys'22.
+One paper EdgeFM is conditionally-accepted in MobiSys'22.
